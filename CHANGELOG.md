@@ -1,3 +1,9 @@
+#### v3.1.8
+- Plugin icon replacement;
+- note plugin add notes command to display all the notes, press SHIFT + ENTER to delete a single note;
+- note / todo plugin storage usage alert;
+- Set max workflows num to 20. 
+
 #### v3.1.7
 Optimize UI interface of new tab
 

@@ -1,9 +1,9 @@
 Steward - Help Center
 =======
 
-Update： `Version 3.1.7`
+Update： `Version 3.1.8`
 
-> I am so sorry that my english is poor, but the better document is coming soon.
+> A developer comes from china, which english is not my native language, will keep improving the document continuously.
 
 Table of Contents
 ---

@@ -18,6 +18,13 @@
     - List all notes which have the selected tag
     - Copy the selected note to the clipboard
 
+### List all notes
+`trigger: notes`
+
+#### Operating
+- `Enter` Copy the selected note to the clipboard
+    - `+ Shift` delete the selected note
+
 ## Screenshots
 <img src="https://i.imgur.com/vRyGyVA.png" width="500" />
 
