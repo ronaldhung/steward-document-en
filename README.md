@@ -1,9 +1,11 @@
 Steward - Help Center
 =======
 
-Update： `Version 3.1.9`
+Update： `Version 3.1.10`
 
 > A developer comes from china, which english is not my native language, will keep improving the document continuously.
+
+> If you do not like the new tab is occupied, you can use [Browser Alfred](https://chrome.google.com/webstore/detail/jglmompgeddkbcdamdknmebaimldkkbl)
 
 Table of Contents
 ---

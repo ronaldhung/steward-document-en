@@ -1,3 +1,8 @@
+#### v3.1.10
+* Fix bug of workflow
+* Auto switch to Random Mode when using random command
+* Optimize the New Tab experience to avoid misuse
+
 #### v3.1.9
 fix bug of workflow.
 
