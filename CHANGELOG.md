@@ -1,3 +1,6 @@
+#### v3.1.9
+fix bug of workflow.
+
 #### v3.1.8
 - Plugin icon replacement;
 - note plugin add notes command to display all the notes, press SHIFT + ENTER to delete a single note;
